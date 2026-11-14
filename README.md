@@ -1,6 +1,4 @@
-### Salut, moi c'est Noxh 👋
-
-Étudiant en **L1 Informatique** à l'[Université Paris Cité](https://github.com).
+### Étudiant en **L1 Informatique** à l'[Université Paris Cité](https://github.com/Universite-Paris-Cite).
 
 #### 💻 Projets Techniques
 
